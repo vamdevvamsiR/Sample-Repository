@@ -1,6 +1,7 @@
 #include<iostream>
 #include<conio.h>
 using namespace std;
+//does iostream still work?
 int main()
 {
 	int n, Arr[n],Ele,i;
